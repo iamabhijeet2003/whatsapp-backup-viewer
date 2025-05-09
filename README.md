@@ -39,6 +39,7 @@ python3 whatsapp_viewer.py
 2. Launch the viewer using the command above.
 3. Go to `File > Open DB` and select your `msgstore.db`.
 4. View the messages in the table (up to 1000 latest messages).
+![image](https://github.com/user-attachments/assets/5341cfba-3d69-42af-8a13-7a778120c83b)
 
 ---
 
